@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi, I'm gus
+## Welcome to my gihub profile.
+### 
 <!--
 **gusgluna/gusgluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
