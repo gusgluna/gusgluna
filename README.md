@@ -1,6 +1,6 @@
-# Hi, I'm gus
-## Welcome to my gihub profile.
-### 
+# Hello World! :nerd_face:
+## I'm Gus, a self-taught font-end developer.
+I'm located in México :mexico: and passionate with learning new technologies. I have a degree in Mechanical Engineering but what i realy love to do is code!.
 <!--
 **gusgluna/gusgluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
